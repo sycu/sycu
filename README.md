@@ -1,4 +1,3 @@
-## Dev
 [![Languages](https://skillicons.dev/icons?i=php,python,js,cpp,bash,symfony,laravel,django,react,linux,raspberrypi,arduino)](https://skillicons.dev)
 ---
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cGF0cnlrQGVkZWZpbmUucGw=@decode.base64)
